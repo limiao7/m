@@ -1,0 +1,9 @@
+labs/ (current directory)
+    lab00/
+        code.py
+        gen-debug.sh
+        get-ssh-key.sh
+        init.sh
+    tools/
+        download_tools.sh
+    README.md
